@@ -1,0 +1,204 @@
+# Graveyard Forensics — BoozeLee
+
+- Scanned: 2026-09-24T13:17:11.637898+00:00
+- Kind: user
+- Score: 99/100 (open-casket)
+- Public repos: 200
+- Zero-star: 199
+- Price claims: 15
+- Migration stubs: 70
+- Rename-prefix stubs: 62
+- Keepers: 21
+
+## Price claims
+- `BoozeLee/dream-analyzer`
+- `BoozeLee/quantum-encryption`
+- `BoozeLee/drug-discovery-optimizer`
+- `BoozeLee/green-supply-chain`
+- `BoozeLee/skill-gap-analyzer`
+- `BoozeLee/supply-chain-resilience`
+- `BoozeLee/personalized-medicine`
+- `BoozeLee/fair-trade-platform`
+- `BoozeLee/ecosystem-simulator`
+- `BoozeLee/procrastination-breaker`
+- `BoozeLee/renewable-energy-planner`
+- `BoozeLee/renewable-energy-predictor`
+- `BoozeLee/infrastructure-resilience`
+- `BoozeLee/health-optimizer`
+- `BoozeLee/ptcg-ai-porygon`
+
+## Migration stubs
+- `BoozeLee/Laboratory-Templates`
+- `BoozeLee/bakery--sherlockian-research-squad`
+- `BoozeLee/bakery-AurobotNav`
+- `BoozeLee/bakery-Baker-Street-Laboratory`
+- `BoozeLee/bakery-BakerCode`
+- `BoozeLee/bakery-Bakery-street-projct`
+- `BoozeLee/bakery-BakeryLee`
+- `BoozeLee/bakery-CNN3-`
+- `BoozeLee/bakery-COPILOTOKEN`
+- `BoozeLee/bakery-CloudyMcCodeFace`
+- `BoozeLee/bakery-Linty-McLintface`
+- `BoozeLee/bakery-MYTHICNODE-Neuromorphic-Psychedelic-AI`
+- `BoozeLee/bakery-MythicNode`
+- `BoozeLee/bakery-PRIMAX-ai`
+- `BoozeLee/bakery-PeakyBlenders`
+- `BoozeLee/bakery-Polymorphic-Research-Framework`
+- `BoozeLee/bakery-Smoothoperator`
+- `BoozeLee/bakery-Terminal221b`
+- `BoozeLee/bakery-Test44`
+- `BoozeLee/bakery-Woofy-McwoofSON`
+- `BoozeLee/bakery-ai-coding-agents`
+- `BoozeLee/bakery-ai-development-framework`
+- `BoozeLee/bakery-apps`
+- `BoozeLee/bakery-appss`
+- `BoozeLee/bakery-bakerstreet-api`
+- `BoozeLee/bakery-bakery-street-project.github.io`
+- `BoozeLee/bakery-blackrock-analysis`
+- `BoozeLee/bakery-c-h-OODOOOOORRRR`
+- `BoozeLee/bakery-cloud-reasoning-lab`
+- `BoozeLee/bakery-cloudymccodeface-enterprise`
+- `BoozeLee/bakery-copilot-autoauth-agent`
+- `BoozeLee/bakery-cryptojukebox-ai`
+- `BoozeLee/bakery-database`
+- `BoozeLee/bakery-dazzling-fox-dive`
+- `BoozeLee/bakery-demo-repository`
+- `BoozeLee/bakery-discord-bot-automation`
+- `BoozeLee/bakery-docs`
+- `BoozeLee/bakery-dynamic-asynchronous-data-streamliner`
+- `BoozeLee/bakery-elohim-forge`
+- `BoozeLee/bakery-elohim-shard`
+- `BoozeLee/bakery-enterprise-api`
+- `BoozeLee/bakery-enterprise-demo`
+- `BoozeLee/bakery-enterprise-frontend`
+- `BoozeLee/bakery-enterprise-infrastructure`
+- `BoozeLee/bakery-galacticfederation`
+- `BoozeLee/bakery-gitcrate`
+- `BoozeLee/bakery-gitcrate-dev`
+- `BoozeLee/bakery-githubupdater-tools`
+- `BoozeLee/bakery-go-ai-coder`
+- `BoozeLee/bakery-neuromorphic-psychedelic-ai`
+- `BoozeLee/bakery-nooter-ex-machina`
+- `BoozeLee/bakery-patient-gecko-nap`
+- `BoozeLee/bakery-primax-automation-secure`
+- `BoozeLee/bakery-repopilot`
+- `BoozeLee/bakery-revenue_potential`
+- `BoozeLee/bakery-sentiment-analysis-bert`
+- `BoozeLee/bakery-solana-pao-insiders`
+- `BoozeLee/bakery-store`
+- `BoozeLee/bakery-symmetrical-waffle`
+- `BoozeLee/bakery-voidshatterecho`
+- `BoozeLee/beeai-hive-999`
+- `BoozeLee/codex-superlab`
+- `BoozeLee/conduit`
+- `BoozeLee/dj-nef-website`
+- `BoozeLee/flanders-ai-command-center`
+- `BoozeLee/hbs-jazzyos-finetune`
+- `BoozeLee/hiem`
+- `BoozeLee/hiem-app`
+- `BoozeLee/neuroforge-agent`
+- `BoozeLee/pauliens-sky`
+
+## Rename-prefix stubs
+- `BoozeLee/Bakery-Street-Private-Intel`
+- `BoozeLee/bakery--sherlockian-research-squad`
+- `BoozeLee/bakery-.github`
+- `BoozeLee/bakery-AurobotNav`
+- `BoozeLee/bakery-Baker-Street-Laboratory`
+- `BoozeLee/bakery-BakerCode`
+- `BoozeLee/bakery-Bakery-street-projct`
+- `BoozeLee/bakery-BakeryLee`
+- `BoozeLee/bakery-CNN3-`
+- `BoozeLee/bakery-COPILOTOKEN`
+- `BoozeLee/bakery-CloudyMcCodeFace`
+- `BoozeLee/bakery-Linty-McLintface`
+- `BoozeLee/bakery-MYTHICNODE-Neuromorphic-Psychedelic-AI`
+- `BoozeLee/bakery-MythicNode`
+- `BoozeLee/bakery-PRIMAX-ai`
+- `BoozeLee/bakery-PeakyBlenders`
+- `BoozeLee/bakery-Polymorphic-Research-Framework`
+- `BoozeLee/bakery-Smoothoperator`
+- `BoozeLee/bakery-Terminal221b`
+- `BoozeLee/bakery-Test44`
+- `BoozeLee/bakery-Woofy-McwoofSON`
+- `BoozeLee/bakery-ai-coding-agents`
+- `BoozeLee/bakery-ai-development-framework`
+- `BoozeLee/bakery-apps`
+- `BoozeLee/bakery-appss`
+- `BoozeLee/bakery-bakerstreet-api`
+- `BoozeLee/bakery-bakery-street-project.github.io`
+- `BoozeLee/bakery-blackrock-analysis`
+- `BoozeLee/bakery-c-h-OODOOOOORRRR`
+- `BoozeLee/bakery-cloud-reasoning-lab`
+- `BoozeLee/bakery-cloudymccodeface-enterprise`
+- `BoozeLee/bakery-copilot-autoauth-agent`
+- `BoozeLee/bakery-cryptojukebox-ai`
+- `BoozeLee/bakery-database`
+- `BoozeLee/bakery-dazzling-fox-dive`
+- `BoozeLee/bakery-demo-repository`
+- `BoozeLee/bakery-discord-bot-automation`
+- `BoozeLee/bakery-docs`
+- `BoozeLee/bakery-dynamic-asynchronous-data-streamliner`
+- `BoozeLee/bakery-elohim-forge`
+- `BoozeLee/bakery-elohim-shard`
+- `BoozeLee/bakery-enterprise-api`
+- `BoozeLee/bakery-enterprise-demo`
+- `BoozeLee/bakery-enterprise-frontend`
+- `BoozeLee/bakery-enterprise-infrastructure`
+- `BoozeLee/bakery-galacticfederation`
+- `BoozeLee/bakery-gitcrate`
+- `BoozeLee/bakery-gitcrate-dev`
+- `BoozeLee/bakery-githubupdater-tools`
+- `BoozeLee/bakery-go-ai-coder`
+- `BoozeLee/bakery-neuromorphic-psychedelic-ai`
+- `BoozeLee/bakery-nooter-ex-machina`
+- `BoozeLee/bakery-patient-gecko-nap`
+- `BoozeLee/bakery-primax-automation-secure`
+- `BoozeLee/bakery-repopilot`
+- `BoozeLee/bakery-revenue_potential`
+- `BoozeLee/bakery-sentiment-analysis-bert`
+- `BoozeLee/bakery-solana-pao-insiders`
+- `BoozeLee/bakery-store`
+- `BoozeLee/bakery-street-studio`
+- `BoozeLee/bakery-symmetrical-waffle`
+- `BoozeLee/bakery-voidshatterecho`
+
+## Keepers
+- `BoozeLee/BoozeLee.github.io`
+- `BoozeLee/Dex223-contracts`
+- `BoozeLee/RhythmicRitual`
+- `BoozeLee/ai-template-engine`
+- `BoozeLee/automationcodex-core`
+- `BoozeLee/azure-security-hardening`
+- `BoozeLee/beehive-studio`
+- `BoozeLee/capo`
+- `BoozeLee/codeqai`
+- `BoozeLee/elite-engineering-codex`
+- `BoozeLee/elohim-forge`
+- `BoozeLee/go-ai-coder`
+- `BoozeLee/mistral-vibe-cli-docs`
+- `BoozeLee/mistral-vibe-configuration`
+- `BoozeLee/mixhive`
+- `BoozeLee/pauliens-sky-app`
+- `BoozeLee/synapse-ace-agent`
+- `BoozeLee/terminal221b`
+- `BoozeLee/trendforge-agent`
+- `BoozeLee/universal-treasury`
+- `BoozeLee/vlaio-webapp`
+
+## Sellables
+- BoozeLee/capo: Viral OSS + paid team configs
+- BoozeLee/RhythmicRitual: Creative bundle with cleared demo media
+- BoozeLee/trendforge-agent: SAP research packs / consultant sidekick
+- BoozeLee/beehive-studio: Local-first AI music product (license / early access)
+- BoozeLee/mixhive: DJ niche platform (pilot / pro tier)
+- BoozeLee/ai-template-engine: AutomationCodex template pack
+- BoozeLee/azure-security-hardening: Fixed-price hardening audit kit
+- BoozeLee/go-ai-coder: Local coding agent support tier
+- BoozeLee/codeqai: Local code-search pro features
+
+## Notes
+- Public GitHub metadata only. No private repo contents are read.
+- Price-claim detection is pattern matching on descriptions, not proof of billing.
+- Dead homepage = HEAD/GET failed or HTTP 404/410 at scan time.
+- migration_stub_repos = explicit Migrated-to stubs; rename_stub_repos = bakery-* prefix noise; grave score counts both.
