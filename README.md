@@ -37,10 +37,14 @@ uv run graveyard teaser --owner BoozeLee
 
 ## Product
 
-- **Free teaser:** score + top smells  
-- **Estates Sale report ($79):** full PDF + row-level CSV + 14-day cleanup plan  
+| Tier | Price | What you get |
+|---|---:|---|
+| **Free teaser** | $0 | `graveyard teaser --owner YOU` output shape: score + top smells (also via issue template) |
+| **Estates Sale report** | **$79** | Full PDF + row-level CSV + keepers/sellables + 14-day cleanup plan |
 
-Self specimen: [BoozeLee](https://github.com/BoozeLee) + [Bakery-street-project](https://github.com/Bakery-street-project) — see `TEARDOWN.md`.
+See [OFFER.md](./OFFER.md) · self specimen [TEARDOWN.md](./TEARDOWN.md) · samples in [examples/](./examples/).
+
+Live checkout is gated: test-mode payment link is prepared; live Stripe requires key repair + approval phrase in `monetization-launch/approvals/graveyard-forensics-estates-sale-approval.md`.
 
 ## License
 

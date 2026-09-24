@@ -20,8 +20,8 @@ I built [Graveyard Forensics](https://github.com/BoozeLee/graveyard-forensics) a
 - grave score **99/100** (open-casket) on my profile  
 - **70** “Migrated to…” stubs, **62** `bakery-*` rename debris  
 - **22** “FREE for humanity/governments/…” claims  
-- dead homepages on live products  
-- **22** keepers after stripping mirrors and do-not-monetize medical repos  
+- dead homepages on live products (`mixhive.app` down at scan time)  
+- **21** keepers after stripping mirrors and do-not-monetize medical repos  
 
 Full methodology + TEARDOWN: https://github.com/BoozeLee/graveyard-forensics/blob/main/TEARDOWN.md  
 
