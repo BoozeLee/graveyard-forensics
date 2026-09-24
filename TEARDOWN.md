@@ -1,6 +1,6 @@
 # Estate Sale — Graveyard Forensics
 
-**By Kiliaan Vanvoorden** ([@BoozeLee](https://github.com/BoozeLee)) · [Bakery-street-project](https://github.com/Bakery-street-project) · scanned **2026-09-23**
+**By Kiliaan Vanvoorden** ([@BoozeLee](https://github.com/BoozeLee)) · [Bakery-street-project](https://github.com/Bakery-street-project) · scanned **2026-09-24**
 
 I audited my own GitHub graveyard with the scanner I sell. Full identity, full numbers, zero invented revenue.
 
@@ -11,7 +11,7 @@ I audited my own GitHub graveyard with the scanner I sell. Full identity, full n
 | Estate | Public non-fork repos* | Grave score | Zero-star | Price claims | “Migrated to” stubs | `bakery-*` rename | Keepers |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | `BoozeLee` (user) | **200** | **99/100** open-casket | **199** | **15** | **70** | **62** | **21** |
-| `Bakery-street-project` (org) | **60** | **53/100** shallow-grave | **57** | **1** | **0** | **0** | **9** |
+| `Bakery-street-project` (org) | **60** | **53/100** shallow-grave | **57** | **1** | **0** | **2** | **9** |
 
 \*GraphQL `privacy: PUBLIC`, user query `isFork: false`. Org = all public org repos.
 

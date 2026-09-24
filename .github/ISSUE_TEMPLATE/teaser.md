@@ -16,6 +16,6 @@ I’ll run the free tier (public metadata only):
 - grave score / band  
 - top price claims, migration stubs, dead homepages  
 
-Full **PDF + CSV Estates Sale report** is the paid tier (`$79`) — see [OFFER.md](../blob/main/OFFER.md).
+Full **PDF + CSV Estates Sale report** is the paid tier (`$79`) — see [OFFER.md](https://github.com/BoozeLee/graveyard-forensics/blob/master/OFFER.md).
 
 Please do not paste tokens or private repo names you cannot share publicly.

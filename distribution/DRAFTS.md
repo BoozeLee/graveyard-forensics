@@ -23,7 +23,7 @@ I built [Graveyard Forensics](https://github.com/BoozeLee/graveyard-forensics) a
 - dead homepages on live products (`mixhive.app` down at scan time)  
 - **21** keepers after stripping mirrors and do-not-monetize medical repos  
 
-Full methodology + TEARDOWN: https://github.com/BoozeLee/graveyard-forensics/blob/main/TEARDOWN.md  
+Full methodology + TEARDOWN: https://github.com/BoozeLee/graveyard-forensics/blob/master/TEARDOWN.md  
 
 Free teaser: open an issue with your owner login → score + top smells.  
 Paid PDF+CSV estates report: $79 (same pipeline I ran on myself).  
